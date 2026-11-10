@@ -1,0 +1,1 @@
+GET http://localhost:8080/students/123/plan?date=2026-10-30
